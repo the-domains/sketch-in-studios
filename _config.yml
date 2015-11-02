@@ -1,0 +1,23 @@
+name: Sketch In Studios
+favicon: null
+layout_spectrum: 0.5789924853015691
+typography_spectrum: 0.5647776685655117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7928462743293494
+  lightness: 0.9795806887559593
+  saturation: 0.4288771664723754
+  rhythmicContrast: 0.15840421081520617
+purpose: []
